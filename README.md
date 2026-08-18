@@ -10,9 +10,10 @@ Profissional em transição de carreira para dados e automação, construindo so
 
 - Automatizo processos manuais e repetitivos com Python
 - Trabalho com **Pandas**, APIs públicas e qualidade de dados
-- Integro ferramentas (Notion, WhatsApp Web, SMTP)
+- Integro ferramentas (Notion, WhatsApp Web, SMTP, Supabase)
 - Containerizo aplicações com **Docker**
 - Estruturo projetos com boas práticas (package, testes, CI)
+- Crio dashboards em **Streamlit + Plotly**
 
 ---
 
@@ -38,15 +39,20 @@ Consolida vendas multi-canal (Shopify + Mercado Livre) e publica resumo no Notio
 
 `Python · Pandas · Notion API · dotenv`
 
+### [Dashboard de Análise](https://github.com/matheusscherer/business-automation-dashboard-)
+Dashboard Streamlit + Plotly consumindo dados de auditoria e do pipeline ETL.
+
+`Streamlit · Plotly · Pandas · SQLite`
+
 ### [RPA Automation Platform](https://github.com/matheusscherer/rpa-automation-platform)
-Plataforma conceitual em Docker para orquestração de robôs (Excel → processamento → e-mail), com FastAPI e Celery.
+Plataforma conceitual em Docker para orquestração de robôs (Excel → processamento → e-mail).
 
 `Python · FastAPI · Celery · Docker · Pandas`
 
-### [Auditoria de Dados Automatizada](https://github.com/matheusscherer/auditoria-dados-automatizada)
-Validação de integridade de dados de vendas e geração de relatório.
+### [Desafio 21 Dias — Hipertrofia](https://github.com/matheusscherer/desafio-21-dias-hipertrofia-)
+SaaS fitness mobile-first com Streamlit, Supabase e integração Kiwify.
 
-`Python · Pandas · pytest`
+`Streamlit · Supabase · Kiwify`
 
 ---
 
@@ -61,4 +67,5 @@ Validação de integridade de dados de vendas e geração de relatório.
 
 - LinkedIn: [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)
 - GitHub: [github.com/matheusscherer](https://github.com/matheusscherer)
+- Portfólio web: [meu-portfolio](https://github.com/matheusscherer/meu-portfolio)
 - Aberto a oportunidades júnior em **Dados · Automação · RPA · Python**
