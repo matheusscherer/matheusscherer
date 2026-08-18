@@ -2,34 +2,63 @@
 
 **Dados & Automação | Python | RPA**
 
-Profissional em transição de carreira para dados e automação, construindo soluções reais para resolver problemas reais — desde plataformas de RPA até MVPs de reativação de clientes.
+Profissional em transição de carreira para dados e automação, construindo soluções reais — desde pipelines ETL e auditoria de dados até automação de reativação de clientes e plataformas RPA.
+
+---
 
 ## O que eu faço
 
 - Automatizo processos manuais e repetitivos com Python
-- Trabalho com Pandas e OpenPyXL para manipulação e processamento de dados
-- Containerizo e organizo aplicações com Docker
-- Construo interfaces rápidas de validação com Streamlit
-- Uso IA como ferramenta de trabalho no dia a dia, para acelerar entrega, revisar lógica e resolver problemas com mais eficiência
+- Trabalho com **Pandas**, APIs públicas e qualidade de dados
+- Integro ferramentas (Notion, WhatsApp Web, SMTP)
+- Containerizo aplicações com **Docker**
+- Estruturo projetos com boas práticas (package, testes, CI)
+
+---
 
 ## Projetos em destaque
 
-### [Enterprise RPA Platform](link-do-repo)
-Plataforma de automação de processos robóticos (RPA) para integração de planilhas Excel, execução de tarefas assíncronas e envio automatizado de notificações corporativas via e-mail. Suporte completo a Docker para deploy rápido.
+### [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas)
+Automação para filtragem, normalização de contatos e reativação de pacientes elegíveis em clínicas.
 
-Stack: Python 3.10+, Pandas, OpenPyXL, SMTP, Docker, Docker Compose
+`Python · Pandas · pywhatkit · pytest · GitHub Actions`
 
-### [MVP Clínicas](link-do-repo)
-Sistema de automação para filtragem, normalização de contatos e reativação de pacientes elegíveis em clínicas, desenvolvido para resolver um problema real de negócio: pacientes que somem da base e nunca são reengajados.
+### [Pipeline ETL — API Banco Central](https://github.com/matheusscherer/-pipeline-etl-api-publica-)
+Pipeline ETL modular: extração da API PTAX, transformação em camadas e carga em SQLite.
 
-Stack: Python, Pandas, Streamlit
+`Python · Requests · Pandas · SQLite · pytest`
+
+### [Validador / Auditoria de Dados](https://github.com/matheusscherer/validador_dados)
+Auditoria automatizada: duplicatas, nulos, outliers, erros de cálculo e relatório em Markdown + SQLite.
+
+`Python · Pandas · NumPy · SQLite`
+
+### [Sales Report Automation](https://github.com/matheusscherer/sales-report-automation)
+Consolida vendas multi-canal (Shopify + Mercado Livre) e publica resumo no Notion.
+
+`Python · Pandas · Notion API · dotenv`
+
+### [RPA Automation Platform](https://github.com/matheusscherer/rpa-automation-platform)
+Plataforma conceitual em Docker para orquestração de robôs (Excel → processamento → e-mail), com FastAPI e Celery.
+
+`Python · FastAPI · Celery · Docker · Pandas`
+
+### [Auditoria de Dados Automatizada](https://github.com/matheusscherer/auditoria-dados-automatizada)
+Validação de integridade de dados de vendas e geração de relatório.
+
+`Python · Pandas · pytest`
+
+---
 
 ## Formação
 
-- Automação Inteligente para Sistemas — Senac Tech (240h, em andamento)
+- Automação Inteligente para Sistemas — Senac Tech (240h)
 - Python Essentials — Cisco Networking Academy
+
+---
 
 ## Contato
 
 - LinkedIn: [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)
-- Aberto a oportunidades júnior em Dados & Automação
+- GitHub: [github.com/matheusscherer](https://github.com/matheusscherer)
+- Aberto a oportunidades júnior em **Dados · Automação · RPA · Python**
