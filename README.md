@@ -1,58 +1,33 @@
 # Matheus Scherer
 
-**Dados & Automação | Python | RPA**
+**Porto Alegre, RS** · Automação e dados com Python · APIs em Node.js quando o problema pede backend de verdade.
 
-Profissional em transição de carreira para dados e automação, construindo soluções reais — desde pipelines ETL e auditoria de dados até automação de reativação de clientes e plataformas RPA.
+Não gosto de checklist de tecnologias na bio. Prefiro projetos que mostram o *porquê* da decisão.
+
+---
+
+## Em destaque (pin estes 6)
+
+| # | Repo | Por quê está aqui |
+|---|------|-------------------|
+| 1 | [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Automação real: Shopify + ML → métricas → Notion |
+| 2 | [validador_dados](https://github.com/matheusscherer/validador_dados) | Qualidade de dados: duplicatas, outliers, erros de cálculo |
+| 3 | [-pipeline-etl-api-publica-](https://github.com/matheusscherer/-pipeline-etl-api-publica-) | ETL completo (API BCB → Pandas → SQLite) |
+| 4 | [api-auth-jwt](https://github.com/matheusscherer/api-auth-jwt) | Auth séria: JWT rotativo, family, blacklist jti, testes, Docker, CI |
+| 5 | [url-shortener](https://github.com/matheusscherer/url-shortener) | API + IA + cache Redis com degradação elegante |
+| 6 | [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Landing de conversão (React / TS) da marca MTSCH |
+
+**Menções fortes** (não precisam de pin): [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) · [rpa-automation-platform](https://github.com/matheusscherer/rpa-automation-platform) · [todo-api](https://github.com/matheusscherer/todo-api)
 
 ---
 
 ## O que eu faço
 
-- Automatizo processos manuais e repetitivos com Python
-- Trabalho com **Pandas**, APIs públicas e qualidade de dados
-- Integro ferramentas (Notion, WhatsApp Web, SMTP, Supabase)
-- Containerizo aplicações com **Docker**
-- Estruturo projetos com boas práticas (package, testes, CI)
-- Crio dashboards em **Streamlit + Plotly**
-
----
-
-## Projetos em destaque
-
-### [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas)
-Automação para filtragem, normalização de contatos e reativação de pacientes elegíveis em clínicas.
-
-`Python · Pandas · pywhatkit · pytest · GitHub Actions`
-
-### [Pipeline ETL — API Banco Central](https://github.com/matheusscherer/-pipeline-etl-api-publica-)
-Pipeline ETL modular: extração da API PTAX, transformação em camadas e carga em SQLite.
-
-`Python · Requests · Pandas · SQLite · pytest`
-
-### [Validador / Auditoria de Dados](https://github.com/matheusscherer/validador_dados)
-Auditoria automatizada: duplicatas, nulos, outliers, erros de cálculo e relatório em Markdown + SQLite.
-
-`Python · Pandas · NumPy · SQLite`
-
-### [Sales Report Automation](https://github.com/matheusscherer/sales-report-automation)
-Consolida vendas multi-canal (Shopify + Mercado Livre) e publica resumo no Notion.
-
-`Python · Pandas · Notion API · dotenv`
-
-### [Dashboard de Análise](https://github.com/matheusscherer/business-automation-dashboard-)
-Dashboard Streamlit + Plotly consumindo dados de auditoria e do pipeline ETL.
-
-`Streamlit · Plotly · Pandas · SQLite`
-
-### [RPA Automation Platform](https://github.com/matheusscherer/rpa-automation-platform)
-Plataforma conceitual em Docker para orquestração de robôs (Excel → processamento → e-mail).
-
-`Python · FastAPI · Celery · Docker · Pandas`
-
-### [Desafio 21 Dias — Hipertrofia](https://github.com/matheusscherer/desafio-21-dias-hipertrofia-)
-SaaS fitness mobile-first com Streamlit, Supabase e integração Kiwify.
-
-`Streamlit · Supabase · Kiwify`
+- Automatizo processos manuais com **Python + Pandas**
+- Auditoria e pipelines ETL (API pública → transformação → banco)
+- APIs em **Node.js** (Express, Prisma, JWT, Redis, testes, Docker)
+- Integrações (Notion, WhatsApp Web, SMTP, Supabase)
+- Projetos com README claro, testes e, quando faz sentido, CI/Docker
 
 ---
 
@@ -67,5 +42,4 @@ SaaS fitness mobile-first com Streamlit, Supabase e integração Kiwify.
 
 - LinkedIn: [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)
 - GitHub: [github.com/matheusscherer](https://github.com/matheusscherer)
-- Portfólio web: [meu-portfolio](https://github.com/matheusscherer/meu-portfolio)
-- Aberto a oportunidades júnior em **Dados · Automação · RPA · Python**
+- Aberto a oportunidades júnior em **Dados · Automação · Python · Backend Node**
