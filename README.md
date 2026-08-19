@@ -1,40 +1,33 @@
-# Matheus Scherer — MTSCH
+# Matheus Scherer
 
-**Reativação de base** para clínicas, consultórios e escritórios.
-Porto Alegre · remoto no Brasil.
+**Automação de processos** com Python. Porto Alegre · remoto no Brasil.
 
-Você já atendeu essas pessoas. Elas pararam de voltar. Eu tiro da planilha quem está elegível, normalizo o telefone e te entrego a lista pronta para WhatsApp — em 14 dias.
+Se o processo é repetido, vai pra sistema. Clínica, escritório, operação comercial — o nicho é quem paga, o trabalho é o mesmo: puxar o manual, quebrar em regra, devolver rodando.
 
-**Oferta:** Reativação de Base · R$ 1.497 · 14 dias  
 **Contato:** [contatomatheusscherer@gmail.com](mailto:contatomatheusscherer@gmail.com) · [LinkedIn](https://linkedin.com/in/scherermatheus)
 
 ---
 
-## O que eu entrego
+## O que eu faço
 
-1. Auditoria da sua base (Excel, CSV ou export do sistema)
-2. Filtro de quem fez o procedimento / atendimento há X dias e **não retornou**
-3. Telefones no padrão WhatsApp (`+55...`)
-4. Scripts de mensagem por nicho
-5. Planilha de disparo — você aprova antes de qualquer envio
+- Tiro tarefa repetida da planilha, do e-mail e do WhatsApp
+- Integro o que já existe (Excel, CRM, ERP, API) — sem software novo por vaidade
+- Auditoria de base: duplicata, nulo, telefone, regra de negócio
+- Relatório e fila que rodam sozinhos, com log e dono claro
 
-Não vendo site. Não vendo Instagram. Vendo **lista que gera agenda**.
+Não vendo “pacote de clínica”. Vendo **processo no automático**.
 
 ---
 
-## Prova (código público)
+## Código público
 
-| Repo | O que prova |
-|------|-------------|
-| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Pipeline real de reativação: filtro + telefone + lista de disparo |
+| Repo | Que tipo de processo |
+|------|----------------------|
+| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Filtro de base + telefone + lista de disparo |
 | [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Relatório de vendas no automático |
-| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja vira base usável |
-| [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Site da oferta |
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → base usável |
+| [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Site |
 
 ---
 
-## Nicho
-
-Clínica estética · consultório odontológico · consultório médico · escritório de advocacia · operação com lista morta no WhatsApp.
-
-Python + Pandas. Sem plantão. Sem 40 slides.
+Python + Pandas. Node quando o problema pede API. Sem plantão. Sem 40 slides.
