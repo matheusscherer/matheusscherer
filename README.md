@@ -1,45 +1,40 @@
-# Matheus Scherer
+# Matheus Scherer — MTSCH
 
-**Porto Alegre, RS** · Automação e dados com Python · APIs em Node.js quando o problema pede backend de verdade.
+**Reativação de base** para clínicas, consultórios e escritórios.
+Porto Alegre · remoto no Brasil.
 
-Não gosto de checklist de tecnologias na bio. Prefiro projetos que mostram o *porquê* da decisão.
+Você já atendeu essas pessoas. Elas pararam de voltar. Eu tiro da planilha quem está elegível, normalizo o telefone e te entrego a lista pronta para WhatsApp — em 14 dias.
 
----
-
-## Em destaque (pin estes 6)
-
-| # | Repo | Por quê está aqui |
-|---|------|-------------------|
-| 1 | [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Automação real: Shopify + ML → métricas → Notion |
-| 2 | [validador_dados](https://github.com/matheusscherer/validador_dados) | Qualidade de dados: duplicatas, outliers, erros de cálculo |
-| 3 | [-pipeline-etl-api-publica-](https://github.com/matheusscherer/-pipeline-etl-api-publica-) | ETL completo (API BCB → Pandas → SQLite) |
-| 4 | [api-auth-jwt](https://github.com/matheusscherer/api-auth-jwt) | Auth séria: JWT rotativo, family, blacklist jti, testes, Docker, CI |
-| 5 | [url-shortener](https://github.com/matheusscherer/url-shortener) | API + IA + cache Redis com degradação elegante |
-| 6 | [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Landing de conversão (React / TS) da marca MTSCH |
-
-**Menções fortes** (não precisam de pin): [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) · [rpa-automation-platform](https://github.com/matheusscherer/rpa-automation-platform) · [todo-api](https://github.com/matheusscherer/todo-api)
+**Oferta:** Reativação de Base · R$ 1.497 · 14 dias  
+**Contato:** [contatomatheusscherer@gmail.com](mailto:contatomatheusscherer@gmail.com) · [LinkedIn](https://linkedin.com/in/scherermatheus)
 
 ---
 
-## O que eu faço
+## O que eu entrego
 
-- Automatizo processos manuais com **Python + Pandas**
-- Auditoria e pipelines ETL (API pública → transformação → banco)
-- APIs em **Node.js** (Express, Prisma, JWT, Redis, testes, Docker)
-- Integrações (Notion, WhatsApp Web, SMTP, Supabase)
-- Projetos com README claro, testes e, quando faz sentido, CI/Docker
+1. Auditoria da sua base (Excel, CSV ou export do sistema)
+2. Filtro de quem fez o procedimento / atendimento há X dias e **não retornou**
+3. Telefones no padrão WhatsApp (`+55...`)
+4. Scripts de mensagem por nicho
+5. Planilha de disparo — você aprova antes de qualquer envio
 
----
-
-## Formação
-
-- Automação Inteligente para Sistemas — Senac Tech (240h)
-- Python Essentials — Cisco Networking Academy
+Não vendo site. Não vendo Instagram. Vendo **lista que gera agenda**.
 
 ---
 
-## Contato
+## Prova (código público)
 
-- LinkedIn: [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)
-- GitHub: [github.com/matheusscherer](https://github.com/matheusscherer)
-- Aberto a oportunidades júnior em **Dados · Automação · Python · Backend Node**
+| Repo | O que prova |
+|------|-------------|
+| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Pipeline real de reativação: filtro + telefone + lista de disparo |
+| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Relatório de vendas no automático |
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja vira base usável |
+| [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Site da oferta |
+
+---
+
+## Nicho
+
+Clínica estética · consultório odontológico · consultório médico · escritório de advocacia · operação com lista morta no WhatsApp.
+
+Python + Pandas. Sem plantão. Sem 40 slides.
