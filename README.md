@@ -1,33 +1,26 @@
 # Matheus Scherer
 
-**Porto Alegre, RS** · Automação de processos e diagnóstico de custo operacional com Python.
+**Porto Alegre, RS** · Automação de processos e análise de dados com Python.
 
-Transformo dados de ponto, escala e hora extra em visão clara de custo e priorização de ações.
+Transformo dados operacionais em visão clara de custo, risco e ação.
 
 ---
 
-## Em destaque
+## Projetos
 
-| | |
+| Projeto | O que faz |
 |---|---|
-| [Case — hora extra](https://mtsch-site.vercel.app/hora-extra) | Tese: extra não é abuso, é posto vago |
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | HE → custo puro vs faturável. Pandas + testes |
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável. Pandas + testes |
 | [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Dois canais de venda → um relatório |
 | [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → relatório do que está errado |
 | [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regra → lista de ação (dry-run) |
-| [mtsch-site](https://mtsch-site.vercel.app) | Portfólio MTSCH |
 
 ---
 
-## O que eu faço
+## Stack
 
-- Diagnóstico de custo operacional (hora extra, inconsistências, processos manuais)
-- Automação de planilhas e workflows com **Python + Pandas**
-- Pipelines ETL e qualidade de dados
-- APIs quando o problema pede backend
+Python · Pandas · FastAPI · SQL · Git · CI
 
 ---
 
-## Contato
-
-[LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch-site.vercel.app) · contatomatheusscherer@gmail.com
+[LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
