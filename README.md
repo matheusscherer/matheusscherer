@@ -1,26 +1,42 @@
 # Matheus Scherer
 
-**Porto Alegre, RS** · Automação de processos e análise de dados com Python.
+**Porto Alegre, Brazil** · Python Data Analyst | Spreadsheet Automation | Process Cost Analysis
 
-Transformo dados operacionais em visão clara de custo, risco e ação.
+I help businesses clean, organize and automate operational data using Python and Pandas.
 
 ---
 
-## Projetos
+## Featured Projects
 
-| Projeto | O que faz |
+| Project | What it solves |
 |---|---|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável. Pandas + testes |
-| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Dois canais de venda → um relatório |
-| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → relatório do que está errado |
-| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regra → lista de ação (dry-run) |
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Overtime hours → pure cost vs billable. Pattern analysis with Pandas |
+| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Two sales channels → one clean management report |
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | Dirty data → clear report of what is wrong |
+| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Customer base → rules → action list (dry-run) |
 
 ---
 
-## Stack
+## What I do
 
-Python · Pandas · FastAPI · SQL · Git · CI
+- Clean and transform messy Excel/CSV files
+- Build automation scripts for repetitive spreadsheet tasks
+- Analyze operational cost patterns (overtime, inconsistencies)
+- Deliver clear reports ready for decision-making
+
+**Stack:** Python · Pandas · Excel · Google Sheets · SQL · Git
 
 ---
 
-[LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
+## Open to Work
+
+Available for freelance projects and remote opportunities in:
+- Data cleaning & transformation
+- Spreadsheet / process automation
+- Operational cost analysis
+
+**Rate:** from $20/hr · Fixed-price projects available
+
+---
+
+[LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch-site.vercel.app) · contatomatheusscherer@gmail.com
