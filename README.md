@@ -8,13 +8,14 @@ Transformo dados de ponto, escala e hora extra em visão clara de custo e priori
 
 ## Em destaque
 
-| Repo | O que resolve |
-|------|---------------|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Análise de padrões de HE → separação de custo puro vs faturável |
-| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Dois canais de venda → um relatório consolidado |
+| | |
+|---|---|
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | HE → custo puro vs faturável. Pandas + testes |
+| [Deck ao vivo](https://ever-winter-fleet-zest.grok.me) | Mesma tese, reunião de 3 min. Contas omitidas |
+| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Dois canais de venda → um relatório |
 | [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → relatório do que está errado |
 | [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regra → lista de ação (dry-run) |
-| [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Landing page da marca MTSCH |
+| [mtsch-site](https://github.com/matheusscherer/mtsch-site) | Landing da marca MTSCH |
 
 ---
 
