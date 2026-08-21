@@ -19,11 +19,11 @@
 
 | Problema de negócio | O que eu entrego |
 |---------------------|------------------|
-| Hora extra sem controle | Custo real vs necessário + priorização de ações |
 | Estoque parado ou faltando | Dinheiro congelado + ruptura de venda |
 | Agenda com furos (no-show) | Receita perdida + ociosidade |
 | Retrabalho e falhas de qualidade | Custo de não-qualidade |
 | Combustível e rotas ineficientes | Desperdício em logística |
+| Hora extra sem controle | Custo real vs necessário + priorização de ações |
 
 ---
 
@@ -31,11 +31,11 @@
 
 | Projeto | Problema que resolve | Status |
 |---------|----------------------|--------|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Pronto |
 | [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Excesso de estoque + ruptura | Pronto |
 | diagnostico-no-show | No-show + ociosidade de agenda | Em construção |
 | diagnostico-retrabalho | Custo de retrabalho e não-qualidade | Em construção |
 | diagnostico-combustivel-rotas | Combustível e rotas ineficientes | Em construção |
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Pronto |
 
 ---
 
@@ -59,10 +59,10 @@ Contratam quem mostra **onde está o desperdício**.
 
 Disponível para freelas e trabalhos remotos em diagnóstico de custo operacional:
 
-- Hora extra e mão de obra
 - Estoque e ruptura
 - No-show e ociosidade
 - Retrabalho e qualidade
 - Logística e combustível
+- Hora extra e mão de obra
 
 **Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
