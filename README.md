@@ -39,7 +39,7 @@
 | [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Excesso de estoque + ruptura | Pronto |
 | [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | No-show + ociosidade de agenda | Pronto |
 | [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | Custo de retrabalho e não-qualidade | Pronto |
-| diagnostico-combustivel-rotas | Combustível e rotas ineficientes | Em construção |
+| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | Combustível e rotas ineficientes | Pronto |
 | [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Pronto |
 
 ---
