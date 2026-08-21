@@ -1,42 +1,45 @@
 # Matheus Scherer
 
-**Porto Alegre, Brazil** · Python Data Analyst | Spreadsheet Automation | Process Cost Analysis
+**Porto Alegre, RS** · Automação de processos e análise de dados com Python
 
-I help businesses clean, organize and automate operational data using Python and Pandas.
-
----
-
-## Featured Projects
-
-| Project | What it solves |
-|---|---|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Overtime hours → pure cost vs billable. Pattern analysis with Pandas |
-| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Two sales channels → one clean management report |
-| [validador_dados](https://github.com/matheusscherer/validador_dados) | Dirty data → clear report of what is wrong |
-| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Customer base → rules → action list (dry-run) |
+> Transformo planilhas bagunçadas e dados operacionais em relatórios claros de **custo**, **risco** e **ação**.
 
 ---
 
-## What I do
+### O que eu entrego
 
-- Clean and transform messy Excel/CSV files
-- Build automation scripts for repetitive spreadsheet tasks
-- Analyze operational cost patterns (overtime, inconsistencies)
-- Deliver clear reports ready for decision-making
-
-**Stack:** Python · Pandas · Excel · Google Sheets · SQL · Git
-
----
-
-## Open to Work
-
-Available for freelance projects and remote opportunities in:
-- Data cleaning & transformation
-- Spreadsheet / process automation
-- Operational cost analysis
-
-**Rate:** from $20/hr · Fixed-price projects available
+| Problema | Solução |
+|----------|---------|
+| Planilha suja e inconsistente | Limpeza + validação automatizada |
+| Relatórios manuais repetitivos | Automação completa com Python |
+| Custo de hora extra sem clareza | Diagnóstico de custo puro vs faturável |
+| Dados espalhados sem visão | Relatório gerencial pronto para decisão |
 
 ---
 
-[LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch-site.vercel.app) · contatomatheusscherer@gmail.com
+### Projetos em destaque
+
+| Projeto | O que resolve | Stack |
+|---------|---------------|-------|
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo real + priorização | Python · Pandas |
+| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | 2 canais de venda → 1 relatório limpo | Python · Pandas |
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → relatório de erros | Python · Testes · CI |
+| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regras → lista de ação | Python · Dry-run |
+
+---
+
+### Stack principal
+
+`Python` · `Pandas` · `FastAPI` · `SQL` · `Git` · `CI/CD`
+
+---
+
+### Aberto para projetos
+
+Disponível para freelas e trabalhos remotos em:
+
+- Automação de planilhas e processos
+- Limpeza e transformação de dados
+- Diagnóstico de custo operacional
+
+**Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
