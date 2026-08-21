@@ -1,8 +1,8 @@
 # Matheus Scherer
 
-**Porto Alegre, RS** · Automação de processos e análise de dados com Python
+**Porto Alegre, RS** · Diagnóstico de custo operacional com Python
 
-> Transformo planilhas bagunçadas e dados operacionais em relatórios claros de **custo**, **risco** e **ação**.
+> Eu transformo dados operacionais bagunçados em **visão clara de onde a empresa está perdendo dinheiro** — e o que fazer a respeito.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,27 +17,39 @@
 
 ### O que eu entrego
 
-| Problema | Solução |
-|----------|---------|
-| Planilha suja e inconsistente | Limpeza + validação automatizada |
-| Relatórios manuais repetitivos | Automação completa com Python |
-| Custo de hora extra sem clareza | Diagnóstico de custo puro vs faturável |
-| Dados espalhados sem visão | Relatório gerencial pronto para decisão |
+| Problema de negócio | O que eu entrego |
+|---------------------|------------------|
+| Hora extra sem controle | Custo real vs necessário + priorização de ações |
+| Estoque parado ou faltando | Dinheiro congelado + ruptura de venda |
+| Agenda com furos (no-show) | Receita perdida + ociosidade |
+| Retrabalho e falhas de qualidade | Custo de não-qualidade |
+| Combustível e rotas ineficientes | Desperdício em logística |
 
 ---
 
-### Projetos em destaque
+### Os 5 diagnósticos de custo
 
-| Projeto | O que resolve | Stack |
-|---------|---------------|-------|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo real + priorização | Python · Pandas |
-| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | 2 canais de venda → 1 relatório limpo | Python · Pandas |
-| [validador_dados](https://github.com/matheusscherer/validador_dados) | Base suja → relatório de erros | Python · Testes · CI |
-| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regras → lista de ação | Python · Dry-run |
+| Projeto | Problema que resolve | Status |
+|---------|----------------------|--------|
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Pronto |
+| diagnostico-estoque | Excesso de estoque + ruptura | Em construção |
+| diagnostico-no-show | No-show + ociosidade de agenda | Em construção |
+| diagnostico-retrabalho | Custo de retrabalho e não-qualidade | Em construção |
+| diagnostico-combustivel-rotas | Combustível e rotas ineficientes | Em construção |
 
 ---
 
-### Stack principal
+### Por que isso importa
+
+A maioria dos profissionais de dados entrega gráficos bonitos.  
+Eu entrego **número de dinheiro perdido** e **ação prioritária**.
+
+Empresas não contratam quem “sabe Pandas”.  
+Contratam quem mostra **onde está o desperdício**.
+
+---
+
+### Stack
 
 `Python` · `Pandas` · `FastAPI` · `SQL` · `Docker` · `Git` · `CI/CD`
 
@@ -45,10 +57,12 @@
 
 ### Aberto para projetos
 
-Disponível para freelas e trabalhos remotos em:
+Disponível para freelas e trabalhos remotos em diagnóstico de custo operacional:
 
-- Automação de planilhas e processos
-- Limpeza e transformação de dados
-- Diagnóstico de custo operacional
+- Hora extra e mão de obra
+- Estoque e ruptura
+- No-show e ociosidade
+- Retrabalho e qualidade
+- Logística e combustível
 
 **Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
