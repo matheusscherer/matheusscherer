@@ -32,7 +32,7 @@
 | Projeto | Problema que resolve | Status |
 |---------|----------------------|--------|
 | [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Excesso de estoque + ruptura | Pronto |
-| diagnostico-no-show | No-show + ociosidade de agenda | Em construção |
+| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | No-show + ociosidade de agenda | Pronto |
 | diagnostico-retrabalho | Custo de retrabalho e não-qualidade | Em construção |
 | diagnostico-combustivel-rotas | Combustível e rotas ineficientes | Em construção |
 | [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Pronto |
