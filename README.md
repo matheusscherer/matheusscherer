@@ -13,38 +13,37 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-### O que eu entrego
+### Site
 
-| Problema de negócio | O que eu entrego |
-|---------------------|------------------|
-| Estoque parado ou faltando | Dinheiro congelado + ruptura de venda |
-| Agenda com furos (no-show) | Receita perdida + ociosidade |
-| Retrabalho e falhas de qualidade | Custo de não-qualidade |
-| Combustível e rotas ineficientes | Desperdício em logística |
-| Hora extra sem controle | Custo real vs necessário + priorização de ações |
+[mtsch.vercel.app](https://mtsch.vercel.app) — data reel com 5 diagnósticos, métricas e dashboard do case real.
+
+| Diagnóstico | Número |
+|-------------|--------|
+| Hora extra (case real) | **4.110 h** · 55,5% falta de efetivo |
+| Estoque | **R$ 31.308** capital em excesso |
+| No-show | **29,1%** taxa · R$ 3.935 impacto |
+| Retrabalho | **R$ 12.192** não-qualidade |
+| Rotas | **554 km** extras |
+
+→ [Abrir o site](https://mtsch.vercel.app) · [Dashboard hora extra](https://mtsch.vercel.app/hora-extra)
 
 ---
 
-### Os 5 diagnósticos de custo
+### Os 5 diagnósticos (código aberto)
 
-| Projeto | Problema que resolve | Status |
-|---------|----------------------|--------|
-| [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Excesso de estoque + ruptura | Entregue |
-| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | No-show + ociosidade de agenda | Entregue |
-| [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | Custo de retrabalho e não-qualidade | Entregue |
-| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | Combustível e rotas ineficientes | Entregue |
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Horas extras → custo puro vs faturável | Entregue |
+| Projeto | Problema |
+|---------|----------|
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Extra → custo puro vs faturável |
+| [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Capital parado + ruptura |
+| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | Receita perdida + ociosidade |
+| [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | Custo de não-qualidade |
+| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | Km extras + frota ociosa |
 
 ---
 
@@ -54,35 +53,18 @@
 55,5% era falta de efetivo (custo puro).  
 42,7% das vagas fechadas sem um dia de exposição a extra.
 
-→ [Ver case no site](https://mtsch.vercel.app/hora-extra) · [Código no GitHub](https://github.com/matheusscherer/diagnostico-custo-hora-extra)
-
----
-
-### Por que isso importa
-
-A maioria dos profissionais de dados entrega gráficos bonitos.  
-Eu entrego **número de dinheiro perdido** e **ação prioritária**.
-
-Empresas não contratam quem “sabe Pandas”.  
-Contratam quem mostra **onde está o desperdício**.
+→ [Ver no site](https://mtsch.vercel.app/hora-extra) · [Código](https://github.com/matheusscherer/diagnostico-custo-hora-extra)
 
 ---
 
 ### Stack
 
-`Python` · `Pandas` · `NumPy` · `pytest` · `FastAPI` · `PostgreSQL` · `Docker` · `Git` · `GitHub Actions` · `TypeScript` · `Vercel`
+`Python` · `Pandas` · `NumPy` · `pytest` · `TypeScript` · `Vercel`
 
 ---
 
 ### Aberto para projetos
 
-Disponível para freelas, PJ e trabalhos remotos em diagnóstico de custo operacional:
-
-- Estoque e ruptura
-- No-show e ociosidade
-- Retrabalho e qualidade
-- Logística e combustível
-- Hora extra e mão de obra
-- Automação e limpeza de planilhas
+PJ, freela e remoto — diagnóstico de custo operacional e automação de planilhas.
 
 **Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app) · contatomatheusscherer@gmail.com
