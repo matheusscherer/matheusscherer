@@ -4,6 +4,10 @@
 
 > Eu transformo dados operacionais bagunçados em **visão clara de onde a empresa está perdendo dinheiro** — e o que fazer a respeito.
 
+**Site:** [mtsch.vercel.app](https://mtsch.vercel.app)  
+**LinkedIn:** [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)  
+**Email:** contatomatheusscherer@gmail.com
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -44,6 +48,16 @@
 
 ---
 
+### Case em destaque
+
+**4.110 horas de hora extra** em 30 dias.  
+55,5% era falta de efetivo (custo puro).  
+42,7% das vagas fechadas sem um dia de exposição a extra.
+
+→ [Ver case no site](https://mtsch.vercel.app/hora-extra) · [Código no GitHub](https://github.com/matheusscherer/diagnostico-custo-hora-extra)
+
+---
+
 ### Por que isso importa
 
 A maioria dos profissionais de dados entrega gráficos bonitos.  
@@ -62,12 +76,13 @@ Contratam quem mostra **onde está o desperdício**.
 
 ### Aberto para projetos
 
-Disponível para freelas e trabalhos remotos em diagnóstico de custo operacional:
+Disponível para freelas, PJ e trabalhos remotos em diagnóstico de custo operacional:
 
 - Estoque e ruptura
 - No-show e ociosidade
 - Retrabalho e qualidade
 - Logística e combustível
 - Hora extra e mão de obra
+- Automação e limpeza de planilhas
 
-**Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · contatomatheusscherer@gmail.com
+**Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app) · contatomatheusscherer@gmail.com
