@@ -1,49 +1,36 @@
-# Matheus Scherer
+# Matheus Scherer · MTSCH
 
 **Porto Alegre, RS** · Diagnóstico de custo operacional com Python
 
-> Eu transformo dados operacionais bagunçados em **visão clara de onde a empresa está perdendo dinheiro** — e o que fazer a respeito.
+> Planilha entra. Tese sai.  
+> Eu mostro **onde a operação está perdendo dinheiro** — e o que fazer a respeito.
 
 **Site:** [mtsch.vercel.app](https://mtsch.vercel.app)  
 **LinkedIn:** [linkedin.com/in/scherermatheus](https://linkedin.com/in/scherermatheus)  
 **Email:** contatomatheusscherer@gmail.com
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+---
+
+### 10 segundos
+
+Hora extra · estoque · no-show · retrabalho · rotas.  
+CSV entra. O script imprime o número. README e site repetem o mesmo número.
+
+Não é Machine Learning. Não é dashboard genérico. Não é RPA de tela.
 
 ---
 
-### Site
-
-[mtsch.vercel.app](https://mtsch.vercel.app) — data reel com 5 diagnósticos, métricas e dashboard do case real.
+### Prova
 
 | Diagnóstico | Número |
 |-------------|--------|
 | Hora extra (case real) | **4.110 h** · 55,5% falta de efetivo |
-| Estoque | **R$ 31.308** capital em excesso |
-| No-show | **29,1%** taxa · R$ 3.935 impacto |
+| Estoque | **R$ 31.308** capital parado |
+| No-show | **29,1%** · R$ 3.935 impacto |
 | Retrabalho | **R$ 12.192** não-qualidade |
 | Rotas | **554 km** extras |
 
 → [Abrir o site](https://mtsch.vercel.app) · [Dashboard hora extra](https://mtsch.vercel.app/hora-extra)
-
----
-
-### Os 5 diagnósticos (código aberto)
-
-| Projeto | Problema |
-|---------|----------|
-| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Extra → custo puro vs faturável |
-| [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Capital parado + ruptura |
-| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | Receita perdida + ociosidade |
-| [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | Custo de não-qualidade |
-| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | Km extras + frota ociosa |
 
 ---
 
@@ -54,6 +41,30 @@
 42,7% das vagas fechadas sem um dia de exposição a extra.
 
 → [Ver no site](https://mtsch.vercel.app/hora-extra) · [Código](https://github.com/matheusscherer/diagnostico-custo-hora-extra)
+
+---
+
+### Método (código aberto)
+
+| Repo | Problema |
+|------|----------|
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | Extra → custo puro vs faturável |
+| [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | Capital parado + ruptura |
+| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | Receita perdida + ociosidade |
+| [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | Custo de não-qualidade |
+| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | Km extras + frota ociosa |
+
+---
+
+### Utilitários
+
+Amostras de automação reutilizável — não são o produto.
+
+| Repo | O que faz |
+|------|-----------|
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | CSV entra, relatório sai. Duplicata, nulo, conta que não fecha. |
+| [sales-report-automation](https://github.com/matheusscherer/sales-report-automation) | Dois CSVs viram um resumo. Notion opcional. |
+| [mvp_clinicas](https://github.com/matheusscherer/mvp_clinicas) | Base → regra → lista de ação. Dry-run por padrão. |
 
 ---
 
