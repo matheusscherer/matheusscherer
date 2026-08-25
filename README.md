@@ -76,7 +76,7 @@ Amostras de automação reutilizável — não são o produto.
 
 ### Aberto para projetos
 
-Vaga júnior CLT em Dados e Automação — presencial/híbrido, Porto Alegre
+Vaga CLT em Dados e Automação — presencial/híbrido, Porto Alegre
 - Diagnóstico de custo operacional e automação de planilhas (freela/PJ)
 - Análise de dados com Python
 
