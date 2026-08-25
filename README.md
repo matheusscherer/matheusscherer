@@ -76,6 +76,8 @@ Amostras de automação reutilizável — não são o produto.
 
 ### Aberto para projetos
 
-PJ, freela e remoto — diagnóstico de custo operacional e automação de planilhas.
+Vaga júnior CLT em Dados e Automação — presencial/híbrido, Porto Alegre
+- Diagnóstico de custo operacional e automação de planilhas (freela/PJ)
+- Análise de dados com Python
 
 **Contato:** [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app) · contatomatheusscherer@gmail.com
