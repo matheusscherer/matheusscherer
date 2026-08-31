@@ -2,7 +2,8 @@
 
 # Matheus Scherer
 
-### **Desenvolvedor Backend (Node.js / TypeScript) & Analista de Dados (Python / SQL)**
+### ** Analista de Dados (Python / SQL) 
+Desenvolvedor Backend (Node.js / TypeScript) **
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-mtsch.vercel.app-2b579a?style=for-the-badge&logo=vercel&logoColor=white)](https://mtsch.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-scherermatheus-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/scherermatheus)
