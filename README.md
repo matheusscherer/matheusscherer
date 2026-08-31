@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Matheus Scherer
+# Matheus Scherer
 
 ### **Desenvolvedor Backend (Node.js / TypeScript) & Analista de Dados (Python / SQL)**
 
