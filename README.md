@@ -17,30 +17,26 @@
 
 ### Sobre
 
-Trabalho com tratamento e análise de dados, automação de processos (RPA) e construção de dashboards para apoiar decisão. Foco atual: vagas de **Analista de Dados Júnior**, presencial/híbrido em Porto Alegre.
+Trabalho com tratamento e análise de dados, automação de processos e construção de dashboards para apoiar decisão. Foco atual: vagas de **Analista de Dados Júnior**, presencial/híbrido em Porto Alegre.
 
-📫 contatomatheusscherer@gmail.com · [LinkedIn](https://linkedin.com/in/scherermatheus)
+Planilha operacional → número de dinheiro + prioridade de ação.
+
+📫 contatomatheusscherer@gmail.com · [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app)
 
 ---
 
 ### 🚀 Projetos
 
-| Projeto | Descrição | Stack |
+| Projeto | Tese | Stack |
 |---|---|---|
-| **mvp_clinicas** | Ferramenta de reativação de pacientes | Python, Streamlit, Pandas |
-| **pipeline-etl-api-publica** | Pipeline ETL consumindo API pública | Python, SQL |
-| **auditoria-dados-automatizada** | Auditoria automatizada de bases de dados | Python, Pandas |
-| **rpa-automation-platform** | Plataforma de RPA containerizada | Python, Docker |
-| **tratamento-dados-excel** | Limpeza, padronização e consolidação de planilhas | Python, Pandas, Excel |
+| [diagnostico-custo-hora-extra](https://github.com/matheusscherer/diagnostico-custo-hora-extra) | 4.110 h · 55,5% falta de efetivo | Python, Pandas |
+| [diagnostico-estoque](https://github.com/matheusscherer/diagnostico-estoque) | R$ 31.308 capital parado | Python, Pandas |
+| [diagnostico-no-show](https://github.com/matheusscherer/diagnostico-no-show) | 29,1% no-show · R$ 2.460 receita perdida | Python, Pandas |
+| [diagnostico-retrabalho](https://github.com/matheusscherer/diagnostico-retrabalho) | R$ 12.192 não-qualidade · FPY 93,2% | Python, Pandas |
+| [diagnostico-combustivel-rotas](https://github.com/matheusscherer/diagnostico-combustivel-rotas) | 554 km extras · R$ 1.846 | Python, Pandas |
+| [validador_dados](https://github.com/matheusscherer/validador_dados) | CSV sujo → relatório de auditoria | Python, Pandas, pytest |
 
-🔗 Portfólio completo: [meu-portfolio](https://github.com/matheusscherer)
-
----
-
-### 🔜 Em construção
-
-- [ ] **Dashboard Power BI** — análise exploratória e indicadores de negócio (conectando Python/SQL ao Power BI)
-- [ ] Case de análise de dados ponta a ponta: Excel → Python → Power BI
+🔗 Cases ao vivo: [mtsch.vercel.app](https://mtsch.vercel.app)
 
 ---
 
