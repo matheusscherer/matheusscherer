@@ -17,9 +17,7 @@
 
 ### Sobre
 
-Trabalho com tratamento e análise de dados, automação de processos e construção de dashboards para apoiar decisão. Foco atual: vagas de **Analista de Dados Júnior**, presencial/híbrido em Porto Alegre.
-
-Planilha operacional → número de dinheiro + prioridade de ação.
+Automação de Processos (RPA) & Inteligência de Dados | Python, SQL, Power BI e APIs — Reduzo trabalho manual e estruturo indicadores para empresas
 
 📫 contatomatheusscherer@gmail.com · [LinkedIn](https://linkedin.com/in/scherermatheus) · [Site](https://mtsch.vercel.app)
 
